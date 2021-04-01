@@ -1,2 +1,2 @@
 # Basic-applications
-this repository is dedicated to test basic projects 
+this repository is dedicated to test basic applications projects.
