@@ -1,5 +1,6 @@
 // Check items when complete
 
+
 $(document).on("click", ".check", function() {
 
   $(this).toggleClass("selected");
